@@ -1,5 +1,5 @@
 {
-    "68.5.237.19:60405":{
+    "68.96.83.151:60405":{
         "contact":"contact@yk3music.com",
         "ipv6":"fcbb:1db3:54fb:e519:d915:d7db:4893:4f30",
         "organization":"Yk3 Music",
